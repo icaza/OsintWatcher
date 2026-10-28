@@ -1,5 +1,12 @@
 # OSTIUM OSINT Watcher
 
+## Part of the Ostium toolset
+
+OsintWatcher is one of the Ostium tools — see also
+[Ostium OSINT Browser](https://github.com/icaza/Ostium-Osint-Browser)
+
+---
+
 **Evidence-grade change detection for web pages, built for OSINT investigators.**
 
 Register a list of pages, run a check whenever you need one (or let the app check on a
